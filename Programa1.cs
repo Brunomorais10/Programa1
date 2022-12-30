@@ -6,8 +6,8 @@ namespace Programa1
     {
         static void Main(string[] args)
         {
-            ProgramaClass1 p1 = new ProgramaClass1();
-            ProgramaClass1 p2 = new ProgramaClass1();
+            Dados p1 = new Dados();
+            Dados p2 = new Dados();
 
             Console.WriteLine("Dados da primeira pessoa:");
             Console.Write("Nome: ");
